@@ -1,3 +1,8 @@
 # MedBook namespace
 
-This is the package to include if you'd like to access the MedBook namespace.
+This package defines the global variable `MedBook`.
+
+This package contains one line of code:
+```js
+MedBook = {};
+```
